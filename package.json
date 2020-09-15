@@ -1,11 +1,11 @@
 {
-  "name": "vuetify-loader",
+  "name": "regme-vuetify-loader",
   "version": "1.6.0",
   "description": "A Webpack plugin for treeshaking Vuetify components and more",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuetifyjs/vuetify-loader.git"
+    "url": "git+https://github.com/Regme-Ltd/vuetify-loader.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,12 +25,12 @@
     "gm": "^1.23.1",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10",
-    "vuetify": "^2.0.0",
+    "regme-vuetify": "^2.0.0",
     "webpack": "^4.37.0"
   },
   "peerDependencies": {
     "vue-template-compiler": "^2.6.10",
-    "vuetify": "^1.3.0 || ^2.0.0",
+    "regme-vuetify": "^1.3.0 || ^2.0.0",
     "webpack": "^4.0.0"
   },
   "optionalPeerDependencies": {

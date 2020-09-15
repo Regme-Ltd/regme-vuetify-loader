@@ -1,4 +1,4 @@
-# vuetify-loader
+# regme-vuetify-loader (based on vuetify-loader by John Leider)
 
 <p align="center">
   <a href="https://www.patreon.com/kaelwd">
