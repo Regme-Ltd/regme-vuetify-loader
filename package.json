@@ -1,6 +1,6 @@
 {
   "name": "regme-vuetify-loader",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "A Webpack plugin for treeshaking Vuetify components and more",
   "main": "lib/index.js",
   "repository": {
